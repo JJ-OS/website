@@ -5,13 +5,10 @@ title = "Compose"
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-# Compose your Docs with __Ease__.
+# JJ Linux
+JJ linux is a linx-based operating system designed for ease of use, beauty, and productivity. 
 
-Compose is a lean theme for the `Hugo`, inspired by [forestry.io](https://forestry.io). 
-
-We do a [Pull Request](https://github.com/onweru/compose/pulls) contributions workflow on **GitHub**. Also feel free to raise any issues or feature suggestions.
-
-Note that the theme is built with simplicity in mind. This way, if a suggestion complicates the usability of the theme, it may be declined. New users are always welcome!
+We do a [Pull Request](https://github.com/JJ-OS) contributions workflow on **GitHub**. Also feel free to raise any issues or feature suggestions.
 
 {{< button "docs/" "Read the Docs" >}} {{< button "https://github.com/onweru/compose" "Download Theme" >}}
 
