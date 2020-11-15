@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://jjlinux.tk/"
 title = "JJ Linux"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
