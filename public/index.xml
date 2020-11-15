@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compose on JJ Linux</title>
-    <link>https://example.com/</link>
+    <link>https://jjlinux.tk/</link>
     <description>Recent content in Compose on JJ Linux</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://jjlinux.tk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started</title>
-      <link>https://example.com/docs/getting-started/</link>
+      <link>https://jjlinux.tk/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/getting-started/</guid>
+      <guid>https://jjlinux.tk/docs/getting-started/</guid>
       <description>Prerequisites and installation Install Hugo You need a recent extended version (we recommend version 0.61 or later) of Hugo to do local builds and previews of sites (like this one) that uses this theme.
 If you install from the release page, make sure to get the extended Hugo version, which supports sass; you may need to scroll down the list of releases to see it.
 For comprehensive Hugo documentation, see gohugo.</description>
@@ -18,10 +18,10 @@ For comprehensive Hugo documentation, see gohugo.</description>
     
     <item>
       <title>Use forestry CMS</title>
-      <link>https://example.com/docs/use-forestry-cms/</link>
+      <link>https://jjlinux.tk/docs/use-forestry-cms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/use-forestry-cms/</guid>
+      <guid>https://jjlinux.tk/docs/use-forestry-cms/</guid>
       <description>Do you prefer managing your site using a CMS? Or would you like to make it easier for someone (a non-techie, perhaps) in your team to make edits easily? If interested, follow along. Else, skip to the next section
 Let&#39;s sync your site with forestry CMS.
 Prerequisites !! Obviously you ought to have a github account. This is where your website source will live. Basically, forestry will read from github and write (commmit) to your github repo.</description>
@@ -29,10 +29,10 @@ Prerequisites !! Obviously you ought to have a github account. This is where you
     
     <item>
       <title>Overview</title>
-      <link>https://example.com/docs/overview/</link>
+      <link>https://jjlinux.tk/docs/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/overview/</guid>
+      <guid>https://jjlinux.tk/docs/overview/</guid>
       <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
 Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
 This way, you can side step complex html and css boilerplate in your content files.</description>
@@ -40,10 +40,10 @@ This way, you can side step complex html and css boilerplate in your content fil
     
     <item>
       <title>Shortcodes</title>
-      <link>https://example.com/docs/shortcodes/</link>
+      <link>https://jjlinux.tk/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes/</guid>
+      <guid>https://jjlinux.tk/docs/shortcodes/</guid>
       <description>Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
 This way, you can side step complex html and css boilerplate in your content files.
 Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content is wrapped, a closing shortcode tag is needed. Please see the link I provided above and the markdown files for examples.</description>
@@ -51,19 +51,19 @@ Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content
     
     <item>
       <title>Shortcodes Applied</title>
-      <link>https://example.com/docs/shortcodes-example/</link>
+      <link>https://jjlinux.tk/docs/shortcodes-example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/shortcodes-example/</guid>
+      <guid>https://jjlinux.tk/docs/shortcodes-example/</guid>
       <description>Using blocks, columns &amp;amp; buttons 1 2 3 4 5 6 7 8 9 10 11 12 13  {{&amp;lt; block &amp;#34;grid-2&amp;#34; &amp;gt;}} {{&amp;lt; column &amp;gt;}} #### Coumn 1  Lorem ipsum dolor sit amet, ... {{&amp;lt; button &amp;#34;https://github.com/onweru/compose&amp;#34; &amp;#34;Download Theme&amp;#34; &amp;gt;}} {{&amp;lt; /column &amp;gt;}} {{&amp;lt; column &amp;gt;}} &amp;lt;!-- generates 👇 --&amp;gt;   Coumn 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
     </item>
     
     <item>
       <title>Getting started</title>
-      <link>https://example.com/docs/clarity/getting-started/</link>
+      <link>https://jjlinux.tk/docs/clarity/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/clarity/getting-started/</guid>
+      <guid>https://jjlinux.tk/docs/clarity/getting-started/</guid>
       <description>Prerequisites Firstly, ensure you have installed the extended version of Hugo. See installation steps from Hugo&#39;s official docs.
 Getting up and running Read the prerequisites above and verify you&#39;re using the extended version of Hugo. There are at least two ways of quickly getting started with Hugo and the VMware Clarity theme:
 Option 1 (recommended) Generate a new Hugo site and add this theme as a Git submodule inside your themes folder:</description>
@@ -71,10 +71,10 @@ Option 1 (recommended) Generate a new Hugo site and add this theme as a Git subm
     
     <item>
       <title>Features</title>
-      <link>https://example.com/docs/clarity/features/</link>
+      <link>https://jjlinux.tk/docs/clarity/features/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/clarity/features/</guid>
+      <guid>https://jjlinux.tk/docs/clarity/features/</guid>
       <description>Blog with tagging and category options
   Deeplinks
   Native Image Lazy Loading
@@ -91,10 +91,10 @@ Option 1 (recommended) Generate a new Hugo site and add this theme as a Git subm
     
     <item>
       <title>Customization</title>
-      <link>https://example.com/docs/clarity/customize/</link>
+      <link>https://jjlinux.tk/docs/clarity/customize/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/clarity/customize/</guid>
+      <guid>https://jjlinux.tk/docs/clarity/customize/</guid>
       <description>Configuration If set, jump over to the config.toml file and start configuring your site.
 This section will mainly cover settings that are unique to this theme. If something is not covered here (or elsewhere in this file), there&#39;s a good chance it is covered in this Hugo docs page.
 Global Parameters These options set global values that some pages or all pages in the site use by default.
@@ -103,20 +103,20 @@ Global Parameters These options set global values that some pages or all pages i
     
     <item>
       <title>Manipulating Images</title>
-      <link>https://example.com/docs/clarity/images/</link>
+      <link>https://jjlinux.tk/docs/clarity/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/clarity/images/</guid>
+      <guid>https://jjlinux.tk/docs/clarity/images/</guid>
       <description>Images Image figure captions You have the option of adding captions to images in blog posts and automatically prepending a desired string such as &amp;quot;Figure N&amp;quot; to the alt text. This is controlled via two global settings.
 figurePositionLabel is a string which will be prepended to any alt text of an article image. By default, this is set to &amp;quot;Figure.&amp;quot; And figurePositionShow controls, globally, whether to show this label. It does not affect whether to show the image alt text, only the prefix figure caption.</description>
     </item>
     
     <item>
       <title>Blogging</title>
-      <link>https://example.com/docs/clarity/blogging/</link>
+      <link>https://jjlinux.tk/docs/clarity/blogging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/clarity/blogging/</guid>
+      <guid>https://jjlinux.tk/docs/clarity/blogging/</guid>
       <description>Blog directory Edit the config.toml file and change the mainSections key. Values will be directories where the blogs reside.
 1 2 3 4  [params]...mainSections = [&amp;#34;posts&amp;#34;, &amp;#34;docs&amp;#34;, &amp;#34;blogs&amp;#34;]...  For more info, see the Hugo docs.
 Mobile menu positioning The navigation menu when mobile browsing can be configured in config.toml to open right or left depending on preference. The &amp;quot;hamburger&amp;quot; menu icon will always display in the upper right hand corner regardless.</description>
@@ -124,20 +124,20 @@ Mobile menu positioning The navigation menu when mobile browsing can be configur
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://example.com/docs/clarity/syntax-highlighting/</link>
+      <link>https://jjlinux.tk/docs/clarity/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/clarity/syntax-highlighting/</guid>
+      <guid>https://jjlinux.tk/docs/clarity/syntax-highlighting/</guid>
       <description>Code Display line numbers Choose whether to display line numbers within a code block globally with the parameter codeLineNumbers setting to true or false.
 1 2 3 4  [params]...codeLineNumbers = true# Shows line numbers for all code blocks globally....  Limit code block height You can globally control the number of lines which are displayed by default for your code blocks. Code which has the number of lines exceed this value will dynamically cause two code block expansion buttons to appear, allowing the user to expand to full length and contract.</description>
     </item>
     
     <item>
       <title>Theme Overrides</title>
-      <link>https://example.com/docs/clarity/theme-overrides/</link>
+      <link>https://jjlinux.tk/docs/clarity/theme-overrides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/clarity/theme-overrides/</guid>
+      <guid>https://jjlinux.tk/docs/clarity/theme-overrides/</guid>
       <description>Custom CSS and JS To minimize HTTP requests per page, we would recommend loading CSS styles and JavaScript helpers in single bundles. That is to say, one CSS file and one JavaScript file. Using Hugo minify functions, these files will be minified to optimize the size.
 Going by the above 👆🏻 reason, we recommend adding custom CSS and JS via this custom SASS file and custom JavaScript file.
 However, sometimes you may need to load additional style or script files.</description>
