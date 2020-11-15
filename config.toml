@@ -48,8 +48,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   time_format_default = "January 2, 2006"
   enableDarkMode = true # set to false to disable darkmode by default # user will still have the option to use dark mode
   [params.logo]
-    lightMode = "compose.svg"
-    darkMode = "compose-light.svg"
+    lightMode = "compose.png"
+    darkMode = "compose-light.png"
 
   [params.source]
     name = "GitHub"
