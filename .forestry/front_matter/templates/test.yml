@@ -8,3 +8,5 @@ fields:
 - type: number
   name: weight
   label: weight
+pages:
+- content/docs/haha-title-go-brrr.md
