@@ -6,6 +6,7 @@ enableRobotsTXT = true
 # theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
 theme = "compose"
 enableGitInfo = true
+introDescription = "JJ Linux Is a linux distro designed for speed, efficiency, and ease of use."
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -14,11 +15,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "Docs"
     weight = 2
     url = "docs/"
-
-[[menu.main]]
-    name = "Example"
-    weight = 3
-    url = "https://docs.neuralvibes.com"
 
 [markup]
   [markup.goldmark]
@@ -59,3 +55,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     name = "GitHub"
     icon = "github.svg"
     url = "https://github.com/JJ-OS/"
+  
