@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compose Docs on JJ Linux</title>
+    <link>https://example.com/docs/</link>
+    <description>Recent content in Compose Docs on JJ Linux</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>https://example.com/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/getting-started/</guid>
+      <description>Prerequisites and installation Install Hugo You need a recent extended version (we recommend version 0.61 or later) of Hugo to do local builds and previews of sites (like this one) that uses this theme.
+If you install from the release page, make sure to get the extended Hugo version, which supports sass; you may need to scroll down the list of releases to see it.
+For comprehensive Hugo documentation, see gohugo.</description>
+    </item>
+    
+    <item>
+      <title>Use forestry CMS</title>
+      <link>https://example.com/docs/use-forestry-cms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/use-forestry-cms/</guid>
+      <description>Do you prefer managing your site using a CMS? Or would you like to make it easier for someone (a non-techie, perhaps) in your team to make edits easily? If interested, follow along. Else, skip to the next section
+Let&#39;s sync your site with forestry CMS.
+Prerequisites !! Obviously you ought to have a github account. This is where your website source will live. Basically, forestry will read from github and write (commmit) to your github repo.</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://example.com/docs/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/overview/</guid>
+      <description>Instead of writing all your site pages from scratch, Hugo lets you define and use shortcodes.
+Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>https://example.com/docs/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes/</guid>
+      <description>Why shortcodes? While markdown is sufficient to produce simple pages, it&#39;s insufficient where complex page structures are needed. Thusly, whenever we need special styling, shortcodes compliment the shortcomings of markdown.
+This way, you can side step complex html and css boilerplate in your content files.
+Sometimes, the shortcode will wrap content, sometimes it won&#39;t. When content is wrapped, a closing shortcode tag is needed. Please see the link I provided above and the markdown files for examples.</description>
+    </item>
+    
+    <item>
+      <title>Shortcodes Applied</title>
+      <link>https://example.com/docs/shortcodes-example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/shortcodes-example/</guid>
+      <description>Using blocks, columns &amp;amp; buttons 1 2 3 4 5 6 7 8 9 10 11 12 13  {{&amp;lt; block &amp;#34;grid-2&amp;#34; &amp;gt;}} {{&amp;lt; column &amp;gt;}} #### Coumn 1  Lorem ipsum dolor sit amet, ... {{&amp;lt; button &amp;#34;https://github.com/onweru/compose&amp;#34; &amp;#34;Download Theme&amp;#34; &amp;gt;}} {{&amp;lt; /column &amp;gt;}} {{&amp;lt; column &amp;gt;}} &amp;lt;!-- generates 👇 --&amp;gt;   Coumn 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</description>
+    </item>
+    
+  </channel>
+</rss>
