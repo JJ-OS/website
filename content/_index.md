@@ -14,6 +14,5 @@ We do a [Pull Request](https://github.com/JJ-OS) contributions workflow on **Git
 
 {{< /column >}}
 {{< column >}}
-![diy](/images/scribble.jpg)
 {{< /column >}}
 {{< /block >}}
