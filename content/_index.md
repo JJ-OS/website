@@ -1,5 +1,5 @@
 +++
-title = "Compose"
+title = "JJ Linux"
 
 +++
 {{< block "grid-2 mt-2" >}}
