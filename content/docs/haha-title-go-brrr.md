@@ -11,4 +11,7 @@ _a italics go brrrr_
 
 ```bash
 echo "haha codeblocks go brrrr"
+cp -r brrr ~/brrr
+echo $(nproc)
+cat /sys/class > echo.md
 ```
