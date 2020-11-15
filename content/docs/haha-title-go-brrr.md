@@ -9,4 +9,6 @@ _a italics go brrrr_
 
 #### **haha header 4 go brr**
 
-    echo "haha code go brrr"
+```bash
+echo "haha codeblocks go brrrr"
+```
