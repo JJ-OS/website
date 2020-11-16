@@ -9,4 +9,5 @@ fields:
   name: weight
   label: weight
 pages:
+- content/about.md
 - content/docs/haha-title-go-brrr.md
