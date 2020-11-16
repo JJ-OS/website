@@ -1,6 +1,8 @@
 +++
 title = "About"
 weight = 3
+[menu.main]
+weight = 2
 
 +++
 ## About JJ Linux

@@ -1,58 +1,43 @@
 baseURL = "https://jjlinux.tk/"
-title = "JJ Linux"
-enableRobotsTXT = true
-# this example loads the theme as hugo module
-# comment out line below, and uncomment the line after it if you prefer to load the theme normally
-# theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of this repo
-theme = "compose"
-enableGitInfo = true
-introDescription = "JJ Linux Is a linux distro designed for speed, efficiency, and ease of use."
-
 disableKinds = ["taxonomy", "taxonomyTerm"]
-
-#  menu items
+enableGitInfo = true
+enableRobotsTXT = true
+introDescription = "JJ Linux Is a linux distro designed for speed, efficiency, and ease of use."
+theme = "compose"
+title = "JJ Linux"
+[markup.goldmark.extensions]
+typographer = false
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+noClasses = false
+style = "monokai"
+tabWidth = 2
+[markup.tableOfContents]
+endLevel = 4
+ordered = false
+startLevel = 2
 [[menu.main]]
-    name = "Docs"
-    weight = 2
-    url = "docs/"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-    [markup.goldmark.extensions]
-      typographer = false
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = false
-    style = "monokai"
-    tabWidth = 2
-  [markup.tableOfContents]
-    endLevel = 4
-    ordered = false
-    startLevel = 2
-
-# Everything below this are Site Params
-
+name = "Docs"
+url = "docs/"
+weight = 1
 [params]
-  author = "JJ Linux Team"
-  searchPlaceholder = "Search the docs ..."
-  repo = "https://github.com/onweru/compose"
-
-  time_format_blog = "Monday, January 02, 2006"
-  time_format_default = "January 2, 2006"
-  enableDarkMode = true # set to false to disable darkmode by default # user will still have the option to use dark mode
-  [params.logo]
-    lightMode = "compose.png"
-    darkMode = "compose-light.png"
-
-  [params.source]
-    name = "GitHub"
-    icon = "github.svg"
-    url = "https://github.com/JJ-OS/"
-  
+author = "JJ Linux Team"
+enableDarkMode = true
+repo = "https://github.com/onweru/compose"
+searchPlaceholder = "Search the docs ..."
+time_format_blog = "Monday, January 02, 2006"
+time_format_default = "January 2, 2006"
+[params.logo]
+darkMode = "compose-light.png"
+lightMode = "compose.png"
+[params.source]
+icon = "github.svg"
+name = "GitHub"
+url = "https://github.com/JJ-OS/"
